@@ -1,6 +1,6 @@
 {
   "name": "sbs-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sbs sdk for javascript",
   "repository": {
     "type": "git",
