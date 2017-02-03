@@ -2,6 +2,10 @@
   "name": "sbs-sdk",
   "version": "1.0.0",
   "description": "sbs sdk for javascript",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ignocide/sbs-sdk.git"
+  },
   "main": "./index.js",
   "scripts": {
     "test": "node test"
